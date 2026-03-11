@@ -4,7 +4,7 @@
     <span>Mayhara Moraes</span>
 </h1>
 
-<p align="justify"> Estudante de Análise e Desenvolvimento de Sistemas - IFCE| Aspirante a Analista de Dados & Engenheira de IA.</p>
+<p align="justify"> Estudante de Análise e Desenvolvimento de Sistemas - IFCE | Aspirante a Analista de Dados & Engenheira de IA.</p>
 
 <h3 align="left">Connect with me</h3>
 
