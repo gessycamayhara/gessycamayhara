@@ -4,8 +4,7 @@
     <span>Mayhara Moraes</span>
 </h1>
 
-<p align="justify">Meu primeiro contato com programação aconteceu em 2017 no Instituto Federal do Ceará, com a linguagem C++.
-Após esse primeiro contato com a programação em um curso técnico em informática, desenvolvi um forte interesse pela área de tecnológia e atualmente sou estudante de Ciência da Computação na Uniiversidade Federal do Ceará. Tenho interesse em atuar na área de Ciência de Dados e também em desenvolver habilidades na área de Desenvolvimento Web.</p>
+<p align="justify"> Estudante de Análise e Desenvolvimento de sistemas.</p>
 
 <h3 align="left">Connect with me</h3>
 
